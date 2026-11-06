@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pimax KOL Benchmarking"
+  short_description: "复盘带单王并生成同赛道达人复制方案与执行Brief"
+  default_prompt: "Use $pimax-kol-benchmarking to analyze this Pimax KOL, identify stage growth drivers, and produce a same-channel replication brief."
